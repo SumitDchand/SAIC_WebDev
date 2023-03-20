@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: rgba(247, 247, 247, 0.828);
+  }
+  h2{
+    text-align: center
+  }
+  
+  header {
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
+  } 
+   button{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    padding: 8px;
+    background-color: #555555;
+   }
+   strong{
+    text-align: center;
+   }
+
+  p{
+    text-align: center;
+  }
+  small{
+    opacity: 0.3;
+    bottom: 1px;}
+
+    p.middle{
+    margin-right: auto;
+    margin-left: auto;
+    }
+    
+    img{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 20%;
+    }
